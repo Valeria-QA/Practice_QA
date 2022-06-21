@@ -1,0 +1,6 @@
+Checking the registration by entering the correct data
+Registration verification when invalid data are entered
+Checking the Register Button
+Cross-browser check
+Checking sign up for integration with vk
+Checking UI
